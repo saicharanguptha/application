@@ -1,3 +1,6 @@
 Hey aws, you're awesome
 I'm checking the webhooks concept and working of it.
 Thank you for helping me
+Connect to your instance
+Once your instance is running, log into it from your local computer.
+Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
